@@ -16,6 +16,14 @@ The World Bank is the organization that provides debt to countries. A country ma
 * **Data Format**: CSV, SQL Source File
 * **Markup**: HTML
 
+## SQL Topics Covered
+* SELECT, SELECT DISTINCT, ALIAS
+* Filtering: WHERE
+* Grouping: GROUP BY
+* Sorting: ORDER BY
+* Aggregation: COUNT DISTINCT
+
+
 
 ## Contact
 * Email: [britoh.pr@gmail.com](britoh.pr@gmail.comcom)
